@@ -3,3 +3,4 @@ kind: Service
 metadata:
 spec:
 type: {{ .Values.service }}
+feature1
