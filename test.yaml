@@ -4,3 +4,4 @@ metadata:
 spec:
 type: {{ .Values.service }}
 feature1
+day2
