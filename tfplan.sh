@@ -4,4 +4,4 @@
 #
 
 terraform -chdir=dc init
-terrform -chdir=dc plan
+terraform -chdir=dc plan
